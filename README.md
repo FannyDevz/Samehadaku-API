@@ -2,9 +2,6 @@
 
 SRA is a rest-api which is scraping to the [samehadaku](https://samehadaku.vip) website and made up using Express.
 
-## Demo
-[Click to show preview](https://samehadaku-rest-api.herokuapp.com/)
-
 ## Installation
 
 Use the package manager [npm](https://npmjs.com/) to install SRA's package.
@@ -68,12 +65,3 @@ Api Endpoint : https://samehadaku-rest-api.herokuapp.com/
     ]
 },
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Copyright (c) 2020-present, ahmadkhamdani9 (rizalord)
